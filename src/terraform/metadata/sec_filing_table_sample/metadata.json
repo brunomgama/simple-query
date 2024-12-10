@@ -1,0 +1,10 @@
+{
+  "query": {
+    "PAYSTUB_YTD_GROSS": {
+      "Text": "What is the Project duration?"
+    },
+    "PAYSTUB_CURRENT_GROSS": {
+      "Text": "What is the Initial contract duration?"
+    }
+  }
+}
