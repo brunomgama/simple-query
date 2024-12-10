@@ -3,5 +3,5 @@ provider "aws" {
 }
 
 module "s3_and_step_function" {
-  source = "./src"
+  source = "src"
 }
